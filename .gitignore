@@ -1,0 +1,5 @@
+# Project exclude paths
+/atcrowdfunding-common/target/
+/atcrowdfunding-manager/target/
+/atcrowdfunding-portal/target/
+/atcrowdfunding-web/target/
